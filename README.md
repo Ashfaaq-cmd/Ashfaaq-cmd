@@ -61,11 +61,12 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [☕ Java-Projects](https://github.com/Ashfaaq-cmd/Java-Projects) | A collection of my Java practice and projects | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) |
-| [🌿 Wildventure](https://github.com/Ashfaaq-cmd/Wildventure) | A web project with a wild adventure theme | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square) |
-| [🐘 fcc-postgres-universal](https://github.com/Ashfaaq-cmd/fcc-postgres-universal) | freeCodeCamp relational database work with PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square) |
-| [✨ glowing-disco](https://github.com/Ashfaaq-cmd/glowing-disco) | Experimental repo | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square) |
-| [📘 javascriptCourserra](https://github.com/Ashfaaq-cmd/javascriptCourserra) | JavaScript course exercises and notes | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black) |
+| [🚲 BikeHub](https://github.com/Ashfaaq-cmd/BikeHub) ⭐ 1 | Bike shop website with product listings, cart, login and registration | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [🏊 Swimcademy](https://github.com/Ashfaaq-cmd/Swimcademy) ⭐ 1 | Booking system for swimming classes | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [🔄 TrISync](https://github.com/Ashfaaq-cmd/TrISync) ⭐ 1 | Mobile app for triathletes: record workouts, complete challenges and more | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| [☕ Java-Projects](https://github.com/Ashfaaq-cmd/Java-Projects) | A collection of my Java practice and projects | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [🌿 Wildventure](https://github.com/Ashfaaq-cmd/Wildventure) | A web project with a wild adventure theme | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [📘 javascriptCourserra](https://github.com/Ashfaaq-cmd/javascriptCourserra) | JavaScript course exercises and notes | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📊 GitHub Stats
 
@@ -96,7 +97,7 @@
 
 <img src="https://media.tenor.com/gg_kphtCA6UAAAAM/cat-angry.gif" width="260" alt="Angry cat meme" />
 
-<sub>Me when the code works on the first try 😾 · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
+<sub>Me when the code works on the first try  · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
 
 </div>
 
