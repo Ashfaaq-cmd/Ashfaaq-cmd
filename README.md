@@ -37,15 +37,21 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=64&animation=shake" alt="CSS3" title="CSS3" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=shake" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=shake" alt="Git" title="Git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake" alt="PHP" title="PHP" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=shake" alt="C#" title="C#" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=shake" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&theme=github" alt="GitHub" title="GitHub" />
 
 </div>
 
-## 🎓 Learning With
+## 🎓 Currently Learning
 
 <div align="center">
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=48&animation=fade" alt="freeCodeCamp" title="freeCodeCamp" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=64&animation=fade" alt="React" title="React" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=nextdotjs&size=64&animation=fade&theme=github" alt="Next.js" title="Next.js" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=64&animation=fade" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=64&animation=fade" alt="freeCodeCamp" title="freeCodeCamp" />
 
 </div>
 
