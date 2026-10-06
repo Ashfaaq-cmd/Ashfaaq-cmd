@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner%20%7C%20Cat%20Lover%20%F0%9F%90%B1&descAlignY=58" alt="header" />
 
 <a href="https://github.com/Ashfaaq-cmd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%E2%98%95;Crafting+web+experiences+with+HTML+%26+CSS+%F0%9F%8E%A8;Learning+JavaScript+%26+PostgreSQL+%F0%9F%9A%80;Turning+coffee+and+curiosity+into+code+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%E2%98%95;Crafting+web+experiences+with+HTML+%26+CSS+%F0%9F%8E%A8;Learning+Next.js+%26+React+%F0%9F%9A%80;Turning+coffee+and+curiosity+into+code+%F0%9F%90%BE" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Ashfaaq-cmd&label=Profile%20views&color=f59e0b&style=for-the-badge" alt="profile views" />
@@ -20,7 +20,7 @@
 ## 🐱 About Me
 
 - 👨‍💻 I'm **Ashfaaq**, a developer who loves building and learning by doing
-- 📚 Currently sharpening my skills in **Java**, **JavaScript** and **PostgreSQL** (via freeCodeCamp & Coursera)
+- 📚 Currently learning **Next.js**, **React** and **Tailwind CSS**, while keeping my **Java** skills sharp
 - 🌍 I enjoy building web projects like **Wildventure**
 - 🐈 Professional cat enthusiast and part-time keyboard-walker supervisor
 - 💬 Ask me about anything Java or web-dev related
@@ -38,7 +38,7 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=shake" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=shake" alt="Git" title="Git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake" alt="PHP" title="PHP" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=shake" alt="C#" title="C#" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=shake" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&theme=github" alt="GitHub" title="GitHub" />
 
@@ -85,6 +85,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashfaaq-cmd/Ashfaaq-cmd/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Ashfaaq-cmd/Ashfaaq-cmd/output/github-snake.svg" />
 </picture>
+
+</div>
+
+## 😾 Cat Meme Corner
+
+<div align="center">
+
+<img src="https://media.tenor.com/gg_kphtCA6UAAAAM/cat-angry.gif" width="260" alt="Angry cat meme" />
+
+<sub>Me when the code works on the first try 😾 · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
 
 </div>
 
