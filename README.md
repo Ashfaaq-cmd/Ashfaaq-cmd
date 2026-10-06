@@ -38,7 +38,7 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=shake" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=shake" alt="Git" title="Git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake" alt="PHP" title="PHP" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=shake" alt="C#" title="C#" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=shake" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&theme=github" alt="GitHub" title="GitHub" />
 
