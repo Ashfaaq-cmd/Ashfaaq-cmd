@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner%20%7C%20F0%9F%90%B1&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner&descAlignY=58" alt="header" />
 
 <a href="https://github.com/Ashfaaq-cmd">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%E2%98%95;Crafting+web+experiences+with+HTML+%26+CSS+%F0%9F%8E%A8;Learning+Next.js+%26+React+%F0%9F%9A%80;Turning+coffee+and+curiosity+into+code+%F0%9F%90%BE" alt="Typing SVG" />
