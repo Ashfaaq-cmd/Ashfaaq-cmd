@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%E2%98%95;Crafting+web+experiences+with+HTML+%26+CSS+%F0%9F%8E%A8;Learning+Next.js+%26+React+%F0%9F%9A%80;Turning+coffee+and+curiosity+into+code+%F0%9F%90%BE" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Ashfaaq-cmd&label=Profile%20views&color=f59e0b&style=for-the-badge" alt="profile views" />
+<img src="https://hits.sh/github.com/Ashfaaq-cmd.svg?style=for-the-badge&label=Profile%20views&color=f59e0b" alt="profile views" />
+<!-- fallback counter: <img src="https://komarev.com/ghpvc/?username=Ashfaaq-cmd&label=Profile%20views&color=f59e0b&style=for-the-badge" alt="profile views" /> -->
 <img src="https://img.shields.io/github/followers/Ashfaaq-cmd?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
 
 <br/><br/>
@@ -61,11 +62,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [🚲 BikeHub](https://github.com/Ashfaaq-cmd/BikeHub) ⭐ 1 | Bike shop website with product listings, cart, login and registration | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [🚲 BikeHub](https://github.com/Ashfaaq-cmd/BikeHub) ⭐ 1 | Bike shop website with product listings, cart, login and registration | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [🏊 Swimcademy](https://github.com/Ashfaaq-cmd/Swimcademy) ⭐ 1 | Booking system for swimming classes | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [🔄 TrISync](https://github.com/Ashfaaq-cmd/TrISync) ⭐ 1 | Mobile app for triathletes: record workouts, complete challenges and more | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | [☕ Java-Projects](https://github.com/Ashfaaq-cmd/Java-Projects) | A collection of my Java practice and projects | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [🌿 Wildventure](https://github.com/Ashfaaq-cmd/Wildventure) | A web project with a wild adventure theme | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [🌿 Wildventure](https://github.com/Ashfaaq-cmd/Wildventure) | A web project with a wild adventure theme | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [📘 javascriptCourserra](https://github.com/Ashfaaq-cmd/javascriptCourserra) | JavaScript course exercises and notes | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📊 GitHub Stats
@@ -97,7 +98,7 @@
 
 <img src="https://media.tenor.com/gg_kphtCA6UAAAAM/cat-angry.gif" width="260" alt="Angry cat meme" />
 
-<sub>Me when the code works on the first try  · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
+<sub>Me when the code works on the first try 😾 · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
 
 </div>
 
@@ -106,8 +107,8 @@
 <div align="center">
 
 <a href="https://github.com/Ashfaaq-cmd"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=shake&theme=github" alt="GitHub" title="GitHub" /></a>
+<a href="https://mu.linkedin.com/in/ashfaaq-dulloo-1a8b23321"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
 <!-- Add yours below (change the href):
-<a href="https://linkedin.com/in/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
 <a href="https://instagram.com/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=56&animation=shake" alt="Instagram" /></a>
 <a href="https://discord.com/users/YOUR-ID"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=56&animation=shake" alt="Discord" /></a>
 -->
