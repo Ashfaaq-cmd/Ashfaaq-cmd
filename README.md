@@ -98,7 +98,7 @@
 
 <img src="https://media.tenor.com/gg_kphtCA6UAAAAM/cat-angry.gif" width="260" alt="Angry cat meme" />
 
-<sub>Me when the code works on the first try 😾 · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
+<sub>Me when the code doesn't work on the first try  · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
 
 </div>
 
@@ -108,10 +108,7 @@
 
 <a href="https://github.com/Ashfaaq-cmd"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=shake&theme=github" alt="GitHub" title="GitHub" /></a>
 <a href="https://mu.linkedin.com/in/ashfaaq-dulloo-1a8b23321"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
-<!-- Add yours below (change the href):
 <a href="https://instagram.com/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=56&animation=shake" alt="Instagram" /></a>
-<a href="https://discord.com/users/YOUR-ID"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=56&animation=shake" alt="Discord" /></a>
--->
 
 <br/>
 
