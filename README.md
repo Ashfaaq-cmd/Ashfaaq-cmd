@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner%20%7C%20Cat%20Lover%20%F0%9F%90%B1&descAlignY=58" alt="header" />
+
+<img src="assets/hi-lottie.webp" width="130" alt="Hi animation" />
 
 <a href="https://github.com/Ashfaaq-cmd">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%E2%98%95;Crafting+web+experiences+with+HTML+%26+CSS+%F0%9F%8E%A8;Learning+Next.js+%26+React+%F0%9F%9A%80;Turning+coffee+and+curiosity+into+code+%F0%9F%90%BE" alt="Typing SVG" />
@@ -11,7 +13,7 @@
 
 <br/><br/>
 
-<img src="assets/cats.svg" alt="Cats running around" width="100%" />
+<img src="assets/cat-look.webp" width="220" alt="Cat looking left and right" />
 
 </div>
 
@@ -94,7 +96,7 @@
 
 <img src="https://media.tenor.com/gg_kphtCA6UAAAAM/cat-angry.gif" width="260" alt="Angry cat meme" />
 
-<sub>Me when the code doesn't work on the first try· <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
+<sub>Me when the code works on the first try 😾 · <a href="https://tenor.com/view/cat-angry-meme-aggression-confusion-gif-22568593">GIF via Tenor</a></sub>
 
 </div>
 
@@ -103,8 +105,8 @@
 <div align="center">
 
 <a href="https://github.com/Ashfaaq-cmd"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=shake&theme=github" alt="GitHub" title="GitHub" /></a>
-<a href="https://mu.linkedin.com/in/ashfaaq-dulloo-1a8b2332"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
 <!-- Add yours below (change the href):
+<a href="https://linkedin.com/in/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
 <a href="https://instagram.com/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=56&animation=shake" alt="Instagram" /></a>
 <a href="https://discord.com/users/YOUR-ID"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=56&animation=shake" alt="Discord" /></a>
 -->
