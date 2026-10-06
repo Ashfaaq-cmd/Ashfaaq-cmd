@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learner&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ashfaaq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Lifelong%20Learne%9F%90%B1&&descAlignY=58" alt="header" />
 
 <img src="assets/hi-lottie.webp" width="130" alt="Hi animation" />
 
