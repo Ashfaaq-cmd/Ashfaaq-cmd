@@ -54,7 +54,6 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=64&animation=fade" alt="React" title="React" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=nextdotjs&size=64&animation=fade&theme=github" alt="Next.js" title="Next.js" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=64&animation=fade" alt="Tailwind CSS" title="Tailwind CSS" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=64&animation=fade" alt="freeCodeCamp" title="freeCodeCamp" />
 
 </div>
 
