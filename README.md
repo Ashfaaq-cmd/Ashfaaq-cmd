@@ -23,10 +23,8 @@
 ## 🐱 About Me
 
 - 👨‍💻 I'm **Ashfaaq**, a developer who loves building and learning by doing
-- 📚 Currently learning **Next.js**, **React** and **Tailwind CSS**, while keeping my **Java** skills sharp
-- 🌍 I enjoy building web projects like **Wildventure**
-- 🐈 Professional cat enthusiast and part-time keyboard-walker supervisor
-- 💬 Ask me about anything Java or web-dev related
+- 📚 Currently learning **Next.js**, **React** and **Tailwind CSS**
+- 🌍 I enjoy building projects
 
 <!-- ✏️ Add your own: location, job title, hobbies, fun fact, etc. -->
 
