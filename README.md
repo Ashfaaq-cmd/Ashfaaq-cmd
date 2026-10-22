@@ -41,7 +41,7 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=breathe" alt="Git" title="Git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=breathe" alt="PHP" title="PHP" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=breathe" alt="python" />
-<img src="assets/csharp.svg size=64" alt="c#" />
+<img src="assets/csharp.svg" alt="C#" title="C#" width="64" height="64" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=breathe" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=breathe&theme=github" alt="GitHub" title="GitHub" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=64" alt="wordpress" />
