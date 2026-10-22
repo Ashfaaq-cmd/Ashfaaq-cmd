@@ -38,15 +38,17 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=64&animation=breathe" alt="JavaScript" title="JavaScript" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=64&animation=breathe" alt="HTML5" title="HTML5" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=64&animation=breathe" alt="CSS3" title="CSS3" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=breathe" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=breathe" alt="Git" title="Git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=breathe" alt="PHP" title="PHP" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=breathe" alt="python" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=breathe" alt="C#" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg&size=64&animation=breathe" alt="C#" title="C#" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=breathe" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=breathe&theme=github" alt="GitHub" title="GitHub" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=64" alt="wordpress" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=64&animation=breathe" alt="figma" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=breathe" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=64&animation=breathe" alt="mysql" />
+
 
 </div>
 
