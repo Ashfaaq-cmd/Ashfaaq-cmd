@@ -34,17 +34,17 @@
 
 <div align="center">
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=64&animation=shake" alt="Java" title="Java" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=64&animation=shake" alt="JavaScript" title="JavaScript" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=64&animation=shake" alt="HTML5" title="HTML5" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=64&animation=shake" alt="CSS3" title="CSS3" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=shake" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=shake" alt="Git" title="Git" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake" alt="PHP" title="PHP" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=64&animation=breathe" alt="Java" title="Java" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=64&animation=breathe" alt="JavaScript" title="JavaScript" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=64&animation=breathe" alt="HTML5" title="HTML5" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=64&animation=breathe" alt="CSS3" title="CSS3" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=breathe" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=breathe" alt="Git" title="Git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=breathe" alt="PHP" title="PHP" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=breathe" alt="python" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=shake" alt="C#" title="C#" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=shake" alt="Flutter" title="Flutter" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&theme=github" alt="GitHub" title="GitHub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=breathe" alt="C#" title="C#" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=breathe" alt="Flutter" title="Flutter" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=breathe&theme=github" alt="GitHub" title="GitHub" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=64" alt="wordpress" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=64&animation=breathe" alt="figma" />
 
@@ -108,9 +108,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Ashfaaq-cmd"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=shake&theme=github" alt="GitHub" title="GitHub" /></a>
-<a href="https://mu.linkedin.com/in/ashfaaq-dulloo-1a8b23321"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=shake" alt="LinkedIn" /></a>
-<a href="https://instagram.com/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=56&animation=shake" alt="Instagram" /></a>
+<a href="https://github.com/Ashfaaq-cmd"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=breathe&theme=github" alt="GitHub" title="GitHub" /></a>
+<a href="https://mu.linkedin.com/in/ashfaaq-dulloo-1a8b23321"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=breathe" alt="LinkedIn" /></a>
+<a href="https://instagram.com/YOUR-NAME"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=56&animation=breathe" alt="Instagram" /></a>
 
 <br/>
 
