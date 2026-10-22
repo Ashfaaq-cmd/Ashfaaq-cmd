@@ -41,9 +41,12 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=shake" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=64&animation=shake" alt="Git" title="Git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake" alt="PHP" title="PHP" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=breathe" alt="python" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=csharp&size=64&animation=shake" alt="C#" title="C#" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=64&animation=shake" alt="Flutter" title="Flutter" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&theme=github" alt="GitHub" title="GitHub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=64" alt="wordpress" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=64&animation=breathe" alt="figma" />
 
 </div>
 
